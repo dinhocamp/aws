@@ -1,0 +1,1 @@
+<?php $RDS_URL='database-1.cmnpw0tf0dvq.us-east-1.rds.amazonaws.com'; $RDS_DB='lab'; $RDS_user='main'; $RDS_pwd='lab-password'; ?>
